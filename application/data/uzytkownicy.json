@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "imie": "Mikog",
+        "nazwisko": "Admin",
+        "email": "mikog@gmail",
+        "rola": "Administrator",
+        "haslo": "$2b$12$Li/shznpRgqRd7vO4ujuHeyAGHsCARUCClAre.Hf5WYHWffJTreZe",
+        "kierunek": "",
+        "grupa": "",
+        "semestr": ""
+    },
+    {
+        "id": 2,
+        "imie": "Jan",
+        "nazwisko": "Jabłko",
+        "email": "jan.jablko@wykladowca.pl",
+        "rola": "Wykładowca",
+        "haslo": "$2b$12$elbmPGGnuV6F4JTcECZ9f.vNG0qK/WWbB4dOPU50hqAFHVXJO4gXm",
+        "kierunek": "",
+        "grupa": "",
+        "semestr": ""
+    },
+    {
+        "id": 3,
+        "imie": "Mikołaj",
+        "nazwisko": "Mango",
+        "email": "mikolaj.mango@wykladowca.pl",
+        "rola": "Wykładowca",
+        "haslo": "$2b$12$Biasp9D3JGjXpQJIMYfBLe/KKbKCHArDQR5CVx9ZCr8Ail7QmKLeG",
+        "kierunek": "",
+        "grupa": "",
+        "semestr": ""
+    },
+    {
+        "id": 4,
+        "imie": "Tomasz",
+        "nazwisko": "Truskawka",
+        "email": "tomasz.truskawka@wykladowca.pl",
+        "rola": "Wykładowca",
+        "haslo": "$2b$12$Biasp9D3JGjXpQJIMYfBLe/KKbKCHArDQR5CVx9ZCr8Ail7QmKLeG",
+        "kierunek": "",
+        "grupa": "",
+        "semestr": ""
+    },
+    {
+        "id": 5,
+        "imie": "Anna",
+        "nazwisko": "Arbuz",
+        "email": "anna.arbuz@wykladowca.pl",
+        "rola": "Wykładowca",
+        "haslo": "$2b$12$Biasp9D3JGjXpQJIMYfBLe/KKbKCHArDQR5CVx9ZCr8Ail7QmKLeG",
+        "kierunek": "",
+        "grupa": "",
+        "semestr": ""
+    },
+    {
+        "id": 6,
+        "imie": "Barbara",
+        "nazwisko": "Banan",
+        "email": "barbara.banan@wykladowca.pl",
+        "rola": "Wykładowca",
+        "haslo": "$2b$12$Biasp9D3JGjXpQJIMYfBLe/KKbKCHArDQR5CVx9ZCr8Ail7QmKLeG",
+        "kierunek": "",
+        "grupa": "",
+        "semestr": ""
+    },
+    {
+        "id": 7,
+        "imie": "Kacper",
+        "nazwisko": "Kokos",
+        "email": "kacper.kokos@wykladowca.pl",
+        "rola": "Wykładowca",
+        "haslo": "$2b$12$Biasp9D3JGjXpQJIMYfBLe/KKbKCHArDQR5CVx9ZCr8Ail7QmKLeG",
+        "kierunek": "",
+        "grupa": "",
+        "semestr": ""
+    }
+]
