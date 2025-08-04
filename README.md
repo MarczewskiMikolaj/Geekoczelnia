@@ -7,3 +7,7 @@ The project was primarily built using Python and the Flask framework. We used bc
 We received the maximum number of points for the project, and our lecturer, impressed with the quality of our work, submitted it to the dean’s office as an example of a well-executed team project.
 
 Website: https://geekoczelnia.online/
+
+Admin login details:
+login: mikog@gmail.com
+password: zaq1@WSXcde3
